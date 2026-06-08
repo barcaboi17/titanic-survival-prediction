@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barcaboi17/titanic-survival-prediction/blob/main/titanic_ml_classifier.ipynb)
+
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/)
+
+
 # 🚢 Titanic Survival Prediction — ML Classification Project
 
 ## Project Overview
